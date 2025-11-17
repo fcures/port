@@ -1,3 +1,3 @@
-# port
+# portfolio
 
 My upcoming portfolio.
