@@ -1,3 +1,3 @@
 # fcures.com
 
-My upcoming portfolio.
+My developer portfolio.
